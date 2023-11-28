@@ -1,0 +1,41 @@
+body {
+  background-color: #000;
+  color: #pink;
+  font-family: sans-serif;
+}
+
+p {
+  color: #8f0f0f;
+}
+
+h1 {
+  color: #8f0f52;
+  font-size: 50px;
+}
+
+div {
+  background: pink;
+  width: 500px;
+}
+
+span {
+  color: green;
+  font-size: 30px;
+}
+
+.box{
+  background-color: #8fe;
+  height: 200px;
+  width: 200px;
+  font-size: 100px;
+  padding: 70px;
+  border: wheat 10px solid;
+}
+
+.paragraf{
+  background-color: #8fe;
+  width: 250px;
+  font-size: 50px;
+  border: white 20px solid;
+  margin: 100px 0px;
+}
